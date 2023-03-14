@@ -37,10 +37,15 @@ Rules of the game
 Great job! Now that you know how to play the Sneak Game, here are some additional rules:
 
 1.The game will end if the sneak runs into a wall or its own tail.
-![wall](https://user-images.githubusercontent.com/39882035/225119665-dc076301-8c8a-425b-a111-e22ad5ec7e55.gif)
+
 2.As you eat the food, the sneak will grow longer, making it harder to maneuver around the game board.
 ![food](https://user-images.githubusercontent.com/39882035/225118496-157fc7e5-b066-4c61-9fb4-af026d1d1f6e.gif)
 3.The game will get progressively more challenging as you advance to higher levels.
+
+
+https://user-images.githubusercontent.com/39882035/225120490-35e08491-a439-4475-bd0e-3aaad58e288a.mp4
+
+
 4.The score will be displayed on the screen and will increase as you eat more food.
 5.Enjoy the game and have fun!
 
